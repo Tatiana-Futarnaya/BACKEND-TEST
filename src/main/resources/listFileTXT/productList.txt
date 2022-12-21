@@ -1,0 +1,6 @@
+1. Milk-$10
+2. Meat-$5
+3. Cheese-$3
+4. Cookie-$4
+5. Flour-$8
+6. Juice-$7

@@ -1,0 +1,17 @@
+             CASH RECEIPT
+            supermarket 123
+       12, MILKYWAY Galaxy/Earth
+           Tel: 123-456-7890
+Cashier: 1520          DATE:12/21/2022
+                       TIME:15:00:41
+----------------------------------------
+QTY     DESCRIPTION     PRICE     TOTAL
+1       Cheese          3,00      3,00
+5       Meat            5,00      24,50
+1       Flour           8,00      8,00
+----------------------------------------
+----------------------------------------
+TOTAL                            $35,50
+DISCOUNT WITH CARD.2%            $0,50
+PROMOTION DISCOUNT.              $0,00
+
